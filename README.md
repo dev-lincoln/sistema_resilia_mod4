@@ -12,7 +12,7 @@ Principais tipos: INT e VARCHAR
 
 # Como essas entidades estão relacionadas?
 
-ALUNO  possui relacionamento 1:1 com MATRÍCULA; /n
-MATRÍCULA possui relacionamento 1:N com TURMA; /n
+ALUNO  possui relacionamento 1:1 com MATRÍCULA; <br>
+MATRÍCULA possui relacionamento 1:N com TURMA; <br>
 TURMA possui relacionamento 1:N com PROFESSOR e CURSO.
 
